@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. Welcome to  my hub</h1>
-<h1 align="center">I'm Somuu 😀</h1>
+<h1 align="center">I'm Nayak 😀</h1>
 
 ### I have technical experience and interest in -
 * Deep Learning

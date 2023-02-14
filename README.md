@@ -27,7 +27,6 @@
 * Traveling
 * Gymnastics
 * Coding
-* VLoging
 
 
 
